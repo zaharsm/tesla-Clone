@@ -12,8 +12,9 @@
 
 <img src="tesla-screen.png" >
 <hr> 
+# Side Panel
 <img src="tesla2.png" >
-
+<hr> 
 # Responsive Design
 
 <img src="tesla-mobile.png" >
