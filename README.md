@@ -10,5 +10,11 @@
 
 <hr>  
 
-<img src="tesla1.png" >
+<img src="tesla-screen.png" >
+<hr> 
 <img src="tesla2.png" >
+
+# Responsive Design
+
+<img src="tesla-mobile.png" >
+<hr> 
